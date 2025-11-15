@@ -20,11 +20,12 @@ number and property manager. The home page will also contain links to the other 
 life looks like at this apartment complex. The comments page will have comments that have been posted by residents or past residents or people who have visited 
 the location to discuss what they think of the place. The reviews page would display residents opinion of the apartments along with an out of five star rating. As I 
 made the wireframe, I got some more ideas. I will try to have the comments appear inside of comment boxes/bubbles. I think the property manager should have a headshot
-on the home page and maybe a little bio about themselves. 
+on the home page and maybe a little bio about themselves. I think I will also just try to keep the webpages feel like they belong together. I'll do that by using the same 
+font and color themes throughout the whole thing.
 
 
 ## Project Wireframe
 
-TODO: Replace the wireframe below with you own design.
-
-![wireframe](wireframe-example.png)
+![wireframe](homepage.png)
+![wireframe](commentpage.png)
+![wireframe](reviewpage.png)
