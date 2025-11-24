@@ -1,4 +1,17 @@
 h1{
   border-color: #d3e644;
-  border-style: dashed;
+  /*border-style: dashed;*/
+}
+.menu {
+    background-color: darkgray;
+    border: 10px solid gray;
+    list-style: none;
+    display: flex;
+    padding: 25px;
+    justify-content: center;
+    gap: 70px;
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
