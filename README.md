@@ -23,6 +23,8 @@ made the wireframe, I got some more ideas. I will try to have the comments appea
 on the home page and maybe a little bio about themselves. I think I will also just try to keep the webpages feel like they belong together. I'll do that by using the same 
 font and color themes throughout the whole thing.
 
+## Sources
+ChatGPT for content
 
 ## Project Wireframe
 
