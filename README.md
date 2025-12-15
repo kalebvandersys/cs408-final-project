@@ -1,5 +1,9 @@
 # Final Project
 
+##
+How to run:
+Clone repo and use either live preview or open in browser, Chrome recommended.
+
 ## Project Spec
 
 For my final project I am going to create a website for an apartment complex. It will have a reviews page, a comment page, a photos page, and a home page.
@@ -24,7 +28,7 @@ on the home page and maybe a little bio about themselves. I think I will also ju
 font and color themes throughout the whole thing.
 
 ## Sources
-ChatGPT for content
+ChatGPT for content and some help in coding
 
 ## Project Wireframe
 
